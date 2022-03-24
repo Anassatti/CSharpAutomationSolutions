@@ -8,3 +8,5 @@ This repo for automation solution based on Selenium and C#, the solution include
 4. Programming Language C#
 5. Browsers: Chrome, IE, Firfox
 6. Jenkins: Integrate Jenkins with GitHub
+7. Automating Test case approach is structured scripting approach
+8. Object page moble for desiging framework
